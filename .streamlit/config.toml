@@ -1,5 +1,9 @@
-Geo-Page-Optimizer/
-├── .streamlit/
-│   └── config.toml
-├── geo_page_optimizer_v2.py
-└── requirements.txt
+[theme]
+primaryColor="#818cf8"
+backgroundColor="#0a0e17"
+secondaryBackgroundColor="#111827"
+textColor="#e2e8f0"
+font="sans serif"
+
+[server]
+maxUploadSize = 10
